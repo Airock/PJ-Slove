@@ -1,0 +1,7 @@
+the thought for this problem is: 
+    
+    step 1: get first char of each number, and add them to a set called set first
+    step 2: get all other chars of each numbers and add them to a set called set last
+    step 3: first-last is the number in the first place.
+    step 4: remove all the number calculated by step 3.
+    setp 5: go to step 1 until there are no numbers left. 
